@@ -3,16 +3,10 @@
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
 ## Ingeniería en Desarrollo y Gestión de Software
-### Josseline Alvarado Vargas
+### Lesly Yareth Hernández Bonilla 
 ### 10A
 #### DMI
-### DMI_PRACTICA8_200687
-
-## Características
-| Característica         | Información                                                              |
-|------------------------|--------------------------------------------------------------------------|
-| Nombre                 | DMI_PRACTICA8_200687                                     |
-| Fecha de Carga         | 29/09/2023                                                                 |
+### DMI_PRACTICA8
 
 ## Descripción      
 
