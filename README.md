@@ -34,7 +34,11 @@ A las ya existentes bases de datos de cine y televisión, IMDb y AllMovie, se ha
 
   
 ## Capturas de Pantalla de la App
-![Screenshot_1696014980](https://github.com/JossAlvarado/DMI_Practica8_200687/assets/84793967/699b6acc-02c2-4382-9bd6-26f65fb6e4ee)
-![Screenshot_1696014984](https://github.com/JossAlvarado/DMI_Practica8_200687/assets/84793967/df725527-bef7-4a0e-8b3a-433179cb0cbb)
+![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/03204292-dbd9-45f5-a29e-8c4e73fc522a)
+![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/db09ac19-d77e-479e-a74c-748c23efd370)
+![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/6982b645-9788-40f6-ac74-bd54f44fdf33)
+
+
+
 
 
