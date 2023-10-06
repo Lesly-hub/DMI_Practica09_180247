@@ -39,9 +39,11 @@ La barra de navegación inferior contiene tres elementos:
 
   
 ## Capturas de Pantalla de la App
-![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/03204292-dbd9-45f5-a29e-8c4e73fc522a)
-![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/db09ac19-d77e-479e-a74c-748c23efd370)
-![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/6982b645-9788-40f6-ac74-bd54f44fdf33)
+![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/8bbb3ace-6feb-4374-9e27-93a4952c65b5)
+![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/17b623ea-50d4-4b7d-8c59-e2acb5afd5cb)
+![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/6358d3aa-f188-4fd6-a3c6-c2b577873a09)
+
+
 
 
 
