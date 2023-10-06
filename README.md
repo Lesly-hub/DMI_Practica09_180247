@@ -35,8 +35,7 @@ La barra de navegación inferior contiene tres elementos:
 - Mejor valorados
 
  ## Cambios
- 
-
+ Se le agrego una opasidad en la estructura de la imagen, el texto se encuentra en la parte inferior del lado derecho.
   
 ## Capturas de Pantalla de la App
 ![image](https://github.com/Lesly-hub/DMI_Practica09_180247/assets/74167109/8bbb3ace-6feb-4374-9e27-93a4952c65b5)
