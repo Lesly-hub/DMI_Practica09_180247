@@ -2,11 +2,13 @@
 
 ![Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png](https://i.postimg.cc/15q3LFXF/Banner-de-Twitch-Nubes-Gamer-Chica-Morado.png)
 
-## Ingeniería en Desarrollo y Gestión de Software
-### Lesly Yareth Hernández Bonilla 
-### 10A
-#### DMI
-### DMI_PRACTICA8
+## Información General
+
+- **Creado por:** Lesly Yareth Hernández Bonilla 
+- **Asignatura:** Desarrollo Movil Integral
+- **Grado:** 10
+- **Grupo:** A
+- **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
 ## Descripción      
 
