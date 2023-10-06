@@ -10,27 +10,32 @@
 - **Grupo:** A
 - **Docente:** MTI. Marco Antonio Ramirez Hernandez
 
-## Descripción      
+## Descripción del Proyecto
 
-Se desarrollo una aplicación que muestra una página de inicio que contiene un catálogo de películas que se encuentran en el cine a punto de estrenar o bien que ya fueron estrenadas. La aplicación cuenta con los siguientes puntos:
+Se desarrollo una aplicación que muestra una página de inicio que contiene un catálogo de películas que se encuentran en el cine a punto de estrenar o bien que ya fueron estrenadas.  La aplicación cuenta con los siguientes puntos:
 
-1. Barra de Navegación Superior
-La AppBar muestra el título "MovieApp" en el centro y un icono de búsqueda en la esquina derecha.
+### 1. Barra de Navegación Superior
 
-2. Menú Lateral (Drawer)
+La AppBar muestra el título "MovieApp" en el centro y un icono de búsqueda en la esquina derecha. 
+
+### 2. Menú Lateral (Drawer)
+
 El menú lateral se abre deslizando desde el borde izquierdo de la pantalla o tocando el icono de menú en la AppBar. Contiene las siguientes opciones:
 
-Peliculas
-Television
-Cerrar
-3. Barra de Navegación Inferior (BottomNavigationBar)
+- Peliculas
+- Television
+- Cerrar
+
+### 3. Barra de Navegación Inferior (BottomNavigationBar)
+
 La barra de navegación inferior contiene tres elementos:
 
-populares
-Proximamente
-Mejor valorados
+- populares
+- Proximamente
+- Mejor valorados
 
-A las ya existentes bases de datos de cine y televisión, IMDb y AllMovie, se ha añadido una nueva: The Movie DataBase (TMDb). Destaca de TMDb su interfaz moderna y atractiva, además de un claro intento de crear comunidad e involucrar a los usuarios en la producción y la revisión de los contenidos.
+ ## Cambios
+ 
 
   
 ## Capturas de Pantalla de la App
